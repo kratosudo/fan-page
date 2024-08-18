@@ -1,0 +1,148 @@
+{
+  "characters": [
+    {
+      "name": "Naruto Uzumaki",
+      "age": 17,
+      "village": "Konoha",
+      "rank": "Hokage",
+      "description": "The main protagonist of the series. Known for his dream to become the Hokage and his strong will and determination.",
+      "image": "https://i.pinimg.com/564x/da/e1/32/dae13261600b437b0613c3d2f56dd4d1.jpg"
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "age": 17,
+      "village": "Konoha",
+      "rank": "Rogue Ninja",
+      "description": "Naruto's friend and rival. A member of the Uchiha clan who seeks power to avenge his clan.",
+      "image": "https://i.pinimg.com/564x/ec/e6/86/ece6861f7e9e56219224696fff0220dd.jpg"
+    },
+    {
+      "name": "Sakura Haruno",
+      "age": 17,
+      "village": "Konoha",
+      "rank": "Jonin",
+      "description": "Naruto's teammate and friend. Known for her exceptional medical skills and strength.",
+      "image": "https://i.pinimg.com/736x/54/c2/97/54c2971518e201aa70a3d69872134657.jpg"
+    },
+    {
+      "name": "Kakashi Hatake",
+      "age": 29,
+      "village": "Konoha",
+      "rank": "Jonin",
+      "description": "The leader of Team 7 and Naruto's mentor. Known for his Sharingan and laid-back attitude.",
+      "image": "https://i.pinimg.com/564x/a5/7a/bc/a57abc03ca6359ff7b15224fa525a96a.jpg"
+    },
+    {
+      "name": "Kurenai Yuhi",
+      "age": 29,
+      "village": "Konoha",
+      "rank": "Jonin",
+      "description": "A skilled ninja specializing in genjutsu and the leader of Team 8.",
+      "image": "https://i.pinimg.com/564x/a1/57/00/a157002ffbb035dfbb04485b57ca5d8c.jpg"
+    },
+    {
+      "name": "Asuma Sarutobi",
+      "age": 31,
+      "village": "Konoha",
+      "rank": "Jonin",
+      "description": "A talented ninja and leader of Team 10. Known for his skills with trench knives and smoking habit.",
+      "image": "https://i.pinimg.com/736x/04/e8/1c/04e81c447a53321877e24fa27d23002e.jpg"
+    },
+    {
+      "name": "Orochimaru",
+      "age": 50,
+      "village": "Otogakure",
+      "rank": "Sannin",
+      "description": "One of the Legendary Sannin. A former Konoha ninja turned rogue, known for his pursuit of immortality and forbidden jutsu.",
+      "image": "https://i.pinimg.com/564x/59/9e/3c/599e3c52c3d2699a7741a4001eabcbad.jpg"
+    },
+    {
+      "name": "Jiraiya",
+      "age": 50,
+      "village": "Konoha",
+      "rank": "Sannin",
+      "description": "One of the Legendary Sannin. A mentor to Naruto and known for his perverted behavior and powerful jutsu.",
+      "image": "https://i.pinimg.com/736x/03/1b/ad/031bad5bbd84442553894b16d5a38272.jpg"
+    },
+    {
+      "name": "Tsunade",
+      "age": 50,
+      "village": "Konoha",
+      "rank": "Hokage",
+      "description": "The Fifth Hokage and one of the Legendary Sannin. Renowned for her medical ninjutsu and superhuman strength.",
+      "image": "https://i.pinimg.com/736x/fe/3e/24/fe3e245734e57a4765e6f7c3af3c4767.jpg"
+    },
+    {
+      "name": "Itachi Uchiha",
+      "age": 21,
+      "village": "Akatsuki",
+      "rank": "Akatsuki Member",
+      "description": "A highly skilled member of the Akatsuki and former member of the Uchiha clan. Known for his tragic story and powerful Sharingan.",
+      "image": "https://i.pinimg.com/564x/c4/50/af/c450af66d38ddae9b25e12d84679a216.jpg"
+    },
+    {
+      "name": "Hinata Hyuga",
+      "age": 16,
+      "village": "Konoha",
+      "rank": "Chunin",
+      "description": "A kind and gentle ninja with the Byakugan. She has a deep admiration for Naruto and eventually becomes his wife.",
+      "image": "https://i.pinimg.com/736x/9c/ef/b8/9cefb8d70a53fcbe07a42e65a2018e9e.jpg"
+    },
+    {
+      "name": "Shikamaru Nara",
+      "age": 17,
+      "village": "Konoha",
+      "rank": "Jonin",
+      "description": "A highly intelligent and strategic ninja, known for his shadow manipulation abilities and laid-back attitude.",
+      "image": "https://i.pinimg.com/736x/19/d0/34/19d0349e0281b52d8e60d7c6b6c3a4cf.jpg"
+    },
+    {
+      "name": "Temari",
+      "age": 18,
+      "village": "Suna",
+      "rank": "Jonin",
+      "description": "A skilled ninja from the Sand Village who uses wind-based techniques. She is the eldest sibling of Gaara and Kankuro.",
+      "image": "https://i.pinimg.com/564x/4e/60/50/4e6050350e914633fc2666ae1e2e7640.jpg"
+    },
+    {
+      "name": "Gaara",
+      "age": 17,
+      "village": "Suna",
+      "rank": "Kazekage",
+      "description": "The Fifth Kazekage of the Sand Village. Known for his powerful sand-based abilities and troubled past.",
+      "image": "https://i.pinimg.com/564x/2b/45/89/2b4589e7594df077d535f58be5cb5951.jpg"
+    },
+    {
+      "name": "Kankuro",
+      "age": 16,
+      "village": "Suna",
+      "rank": "Jonin",
+      "description": "A skilled puppet master from the Sand Village. He is the middle sibling of Gaara and Temari.",
+      "image": "https://i.pinimg.com/564x/55/91/6c/55916c61df3e7c7b88b5f6812d7c957a.jpg"
+    },
+    {
+      "name": "Kiba Inuzuka",
+      "age": 16,
+      "village": "Konoha",
+      "rank": "Chunin",
+      "description": "A ninja who fights alongside his loyal dog, Akamaru. Known for his beast-like combat style and fierce personality.",
+      "image": "https://i.pinimg.com/564x/ee/b6/f4/eeb6f4af247846329f2e36086418cf19.jpg"
+    },
+    {
+      "name": "Choji Akimichi",
+      "age": 16,
+      "village": "Konoha",
+      "rank": "Chunin",
+      "description": "A member of Team 10 known for his ability to increase his size during battle. He is a close friend of Shikamaru and Ino.",
+      "image": "https://i.pinimg.com/564x/37/57/ef/3757eff8748860015f4789181c8baf50.jpg"
+    },
+    {
+      "name": "Ino Yamanaka",
+      "age": 16,
+      "village": "Konoha",
+      "rank": "Chunin",
+      "description": "A member of Team 10 with abilities in mind transfer and communication jutsu. She has a strong rivalry with Sakura.",
+      "image": "https://i.pinimg.com/736x/92/bd/ba/92bdba120098c223e0a45c1327b5607c.jpg"
+    }
+  ]
+}

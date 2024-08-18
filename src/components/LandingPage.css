@@ -1,0 +1,118 @@
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #2e3a59, #4a5c9f);
+  color: #fff;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Message styling */
+.message {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+  letter-spacing: 2px;
+  animation: shine 2s infinite, fadeIn 2s ease-in-out;
+  background: linear-gradient(45deg, #ff0081, #ff8c00);
+  background-clip: text;
+  color: transparent;
+}
+
+/* Sign-in button styling */
+.sign-in-button {
+  background-color: #009688;
+  color: #fff;
+  border: none;
+  border-radius: 30px;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.sign-in-button:hover {
+  background-color: #00796b;
+  transform: scale(1.05);
+}
+
+/* Bubble effects */
+.bubbles {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.bubble {
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.2);
+  opacity: 0.5;
+  pointer-events: none;
+  animation: bubble 20s infinite;
+}
+
+.bubble-0 {
+  width: 40px;
+  height: 40px;
+  top: 10%;
+  left: 20%;
+  animation-delay: 0s;
+}
+
+.bubble-1 {
+  width: 60px;
+  height: 60px;
+  top: 30%;
+  left: 50%;
+  animation-delay: 2s;
+}
+
+.bubble-2 {
+  width: 80px;
+  height: 80px;
+  top: 50%;
+  left: 30%;
+  animation-delay: 4s;
+}
+
+/* Animation for bubbles */
+@keyframes bubble {
+  0% {
+    transform: translateY(0) scale(1);
+  }
+  100% {
+    transform: translateY(-100vh) scale(1.5);
+  }
+}
+
+/* Animation for message shine */
+@keyframes shine {
+  0% {
+    background-position: -1000% 0;
+  }
+  100% {
+    background-position: 1000% 0;
+  }
+}
+
+/* Animation for message fade-in */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

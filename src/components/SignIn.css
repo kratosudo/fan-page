@@ -1,0 +1,78 @@
+.signIn-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(135deg, #4a5c9f, #2e3a59);
+    color: #fff;
+    text-align: center;
+    position: relative;
+  }
+  
+  .signIn-title {
+    font-size: 2.5rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #ff8c00;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+  }
+  
+  .signIn-success {
+    color: #32cd32; /* Lime green */
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .signIn-form {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .signIn-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 2px solid #ff8c00;
+    border-radius: 8px;
+    background: transparent;
+    color: #fff;
+  }
+  
+  .signIn-submit {
+    background-color: #ff8c00;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .signIn-submit:hover {
+    background-color: #e67e22;
+    transform: scale(1.05);
+  }
+  
+  .signIn-login-link {
+    margin-top: 20px;
+    color: #fff;
+    font-size: 1rem;
+  }
+  
+  .signIn-login-link a {
+    color: #ff8c00;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .signIn-login-link a:hover {
+    text-decoration: underline;
+  }
+  
